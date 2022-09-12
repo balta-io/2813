@@ -1,8 +1,4 @@
-# Introdução
-
-Olá e seja bem vindo ao curso Dominando Injeção de Dependência no .NET.
-
-## Em que este curso te ajuda?
+## Qual problema este curso resolve?
 
 Injeção de Dependência ou DI é um dos termos mais confusos da programação. Temos diversas definições e opiniões sobre o assunto e no dia-a-dia acabamos implementando muito código e nem sempre nos atentando aos detalhes.
 
